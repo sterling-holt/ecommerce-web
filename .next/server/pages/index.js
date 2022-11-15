@@ -1,0 +1,10 @@
+Error.stackTraceLimit = 100;
+global.self = global;
+require("./chunks/_bf08a8.js");
+require("./chunks/src_pages_index.tsx.js");
+require("./chunks/src_pages__app.tsx.js");
+require("./chunks/src_components_layout_index.tsx.js");
+require("./chunks/[embedded_modules]_@vercel_turbopack-next_internal_http.ts.js");
+require("./chunks/[embedded_modules]_@vercel_turbopack-next_internal_shims.ts.js");
+require("./chunks/[embedded_modules]_@vercel_turbopack-next_internal_ipc.ts.js");
+require("./chunks/[embedded_modules]_@vercel_turbopack-next_compiled_stacktrace-parser_index.js");
